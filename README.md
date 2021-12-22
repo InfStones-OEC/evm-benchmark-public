@@ -1,5 +1,5 @@
 # evm-benchmark-public
-## Testnet Infos
+## OEC Testnet Infos
 * Router: 0x6cc0277c979325800294774d7ae478A96B824271
   * compute: 0 -> 0xDa6Ea4daEa89a3180BF0C2Cc8A46F286314CB7A2
   * read:    1 -> 0x9576124E3317c1FB17f28a326b6f9822e67050ff
